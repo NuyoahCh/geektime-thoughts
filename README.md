@@ -1,5 +1,6 @@
 # GeekTime Thoughts
 > 极客时间文章的学习总结与个人思考
+极客时间官网：https://time.geekbang.org/
 
 ## 项目简介
 **GeekTime Thoughts** 是一个开源项目，旨在将极客时间（GeekTime）上的高质量文章内容进行深入学习与总结，提炼出个人的理解和思考，帮助开发者在阅读的基础上更好地吸收和应用所学的知识。
