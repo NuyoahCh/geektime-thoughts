@@ -1,3 +1,3 @@
-module github.com/NuyoahCh/failure
+module github.com/NuyoahCh/Ink2Code
 
-go 1.24.10
+go 1.23.12
